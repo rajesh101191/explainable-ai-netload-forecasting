@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="A_banner_image_for_Explainable_AI–Driven_Net-Load.png" alt="Explainable AI – Net-Load Forecasting Banner" width="100%">
+</p>
 # Explainable AI–Driven Net-Load Forecasting for the Indian Power System
 
 This repository contains the complete workflow for an **explainable AI (XAI) based net-load forecasting framework** for the Indian grid.  
