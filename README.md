@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="A_banner_image_for_Explainable_AI–Driven_Net-Load.png" alt="Explainable AI – Net-Load Forecasting Banner" width="100%">
+  <img src="A_banner_image_for_Explainable_AI–Driven_Net-Load.png.png" alt="Explainable AI – Net-Load Forecasting Banner" width="100%">
 </p>
 # Explainable AI–Driven Net-Load Forecasting for the Indian Power System
 
